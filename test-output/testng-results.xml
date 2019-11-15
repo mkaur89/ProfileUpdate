@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="5" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="EdurekaSuite" duration-ms="97006" started-at="2019-11-15T02:11:50Z" finished-at="2019-11-15T02:13:27Z">
+    <groups>
+    </groups>
+    <test name="RegressionTest" duration-ms="97006" started-at="2019-11-15T02:11:50Z" finished-at="2019-11-15T02:13:27Z">
+      <class name="com.edureka.testscripts.PersonalDetailsUpdate">
+        <test-method status="PASS" signature="tc_01_ProfileUpdate()[pri:0, instance:com.edureka.testscripts.PersonalDetailsUpdate@6093dd95]" name="tc_01_ProfileUpdate" duration-ms="36234" started-at="2019-11-15T02:12:07Z" finished-at="2019-11-15T02:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_ProfileUpdate -->
+        <test-method status="PASS" signature="tc_02_PersonalDetailsEdit()[pri:0, instance:com.edureka.testscripts.PersonalDetailsUpdate@6093dd95]" name="tc_02_PersonalDetailsEdit" duration-ms="43884" started-at="2019-11-15T02:12:43Z" finished-at="2019-11-15T02:13:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_02_PersonalDetailsEdit -->
+      </class> <!-- com.edureka.testscripts.PersonalDetailsUpdate -->
+      <class name="com.edureka.testscripts.LogInScript">
+        <test-method status="PASS" signature="launchBrowser(java.lang.String)[pri:0, instance:com.edureka.testscripts.LogInScript@6d4b1c02]" name="launchBrowser" is-config="true" duration-ms="13940" started-at="2019-11-15T02:11:50Z" finished-at="2019-11-15T02:12:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="tc_01_login()[pri:0, instance:com.edureka.testscripts.LogInScript@6d4b1c02]" name="tc_01_login" duration-ms="2904" started-at="2019-11-15T02:12:04Z" finished-at="2019-11-15T02:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_login -->
+        <test-method status="PASS" signature="closeBrowsers()[pri:0, instance:com.edureka.testscripts.LogInScript@6d4b1c02]" name="closeBrowsers" is-config="true" duration-ms="0" started-at="2019-11-15T02:13:27Z" finished-at="2019-11-15T02:13:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowsers -->
+      </class> <!-- com.edureka.testscripts.LogInScript -->
+    </test> <!-- RegressionTest -->
+  </suite> <!-- EdurekaSuite -->
+</testng-results>

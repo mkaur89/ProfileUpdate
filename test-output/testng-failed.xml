@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [EdurekaSuite]">
+  <test thread-count="5" name="RegressionTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.edureka.testscripts.LogInScript">
+        <methods>
+          <include name="tc_01_login"/>
+          <include name="closeBrowsers"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- com.edureka.testscripts.LogInScript -->
+      <class name="com.edureka.testscripts.PersonalDetailsUpdate">
+        <methods>
+          <include name="closeBrowsers"/>
+          <include name="tc_01_ProfileUpdate"/>
+          <include name="tc_02_PersonalDetailsEdit"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- com.edureka.testscripts.PersonalDetailsUpdate -->
+    </classes>
+  </test> <!-- RegressionTest(failed) -->
+</suite> <!-- Failed suite [EdurekaSuite] -->

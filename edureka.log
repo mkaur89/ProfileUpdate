@@ -1,0 +1,131 @@
+2019-11-14 13:48:07 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (378b310375756b5be0a257468f2c4ff5)] -> xpath: //a[text() = 'Log In']]
+2019-11-14 13:48:07 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (378b310375756b5be0a257468f2c4ff5)] -> id: si_popup_email]
+2019-11-14 13:48:08 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (378b310375756b5be0a257468f2c4ff5)] -> id: si_popup_passwd]
+2019-11-14 13:48:08 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (378b310375756b5be0a257468f2c4ff5)] -> xpath: //button[text() = 'Login']]
+2019-11-14 13:48:13 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (378b310375756b5be0a257468f2c4ff5)] -> xpath: //img[@class='user_image']]
+2019-11-14 13:48:43 INFO  SharedActions:31 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //li[@role = 'menuitem']/a[text() = 'My Profile']'
+2019-11-14 13:48:44 ERROR SharedActions:35 - Unable to click on [[ChromeDriver: chrome on XP (378b310375756b5be0a257468f2c4ff5)] -> xpath: //a[@id = 'personal_details']] element click intercepted: Element <a _ngcontent-c25="" class="profile-edit-icon" id="personal_details">...</a> is not clickable at point (577, 124). Other element would receive the click: <iframe scrolling="no" id="wiz-iframe-intent" style="z-index: 2147483647; display:block; height: 100% !important; width: 100% !important;min-height:80px !important;border:0px !important; border-color:none !important;"></iframe>
+  (Session info: chrome=78.0.3904.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BRAT-PC', ip: '192.168.1.90', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\MANMEE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55893}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 378b310375756b5be0a257468f2c4ff5
+2019-11-14 13:48:47 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (378b310375756b5be0a257468f2c4ff5)] -> xpath: //i[@class = 'icon-camera']]
+2019-11-14 13:48:48 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (378b310375756b5be0a257468f2c4ff5)] -> xpath: //div[@class = 'file-upload']]
+2019-11-14 13:48:55 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (378b310375756b5be0a257468f2c4ff5)] -> xpath: //button[text() = 'Upload']]
+2019-11-14 13:48:55 ERROR SharedActions:35 - Unable to click on [[ChromeDriver: chrome on XP (378b310375756b5be0a257468f2c4ff5)] -> xpath: //li[@class = 'brand-logo']/a[@class = 'back-arrow']] element click intercepted: Element <a class="back-arrow">...</a> is not clickable at point (151, 25). Other element would receive the click: <div aria-hidden="false" aria-labelledby="mysmallmodal" bsmodal="" class="modal fade uploadphotomodal in" role="dialog" tabindex="-1" style="display: block;">...</div>
+  (Session info: chrome=78.0.3904.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BRAT-PC', ip: '192.168.1.90', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\MANMEE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55893}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 378b310375756b5be0a257468f2c4ff5
+2019-11-14 13:51:19 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (8a49a44e41f8629f11153b41e60d3d1c)] -> xpath: //a[text() = 'Log In']]
+2019-11-14 13:51:20 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (8a49a44e41f8629f11153b41e60d3d1c)] -> id: si_popup_email]
+2019-11-14 13:51:20 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (8a49a44e41f8629f11153b41e60d3d1c)] -> id: si_popup_passwd]
+2019-11-14 13:51:20 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (8a49a44e41f8629f11153b41e60d3d1c)] -> xpath: //button[text() = 'Login']]
+2019-11-14 13:51:25 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (8a49a44e41f8629f11153b41e60d3d1c)] -> xpath: //img[@class='user_image']]
+2019-11-14 13:51:55 INFO  SharedActions:31 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //li[@role = 'menuitem']/a[text() = 'My Profile']'
+2019-11-14 13:51:56 ERROR SharedActions:35 - Unable to click on [[ChromeDriver: chrome on XP (8a49a44e41f8629f11153b41e60d3d1c)] -> xpath: //a[@id = 'personal_details']] element click intercepted: Element <a _ngcontent-c25="" class="profile-edit-icon" id="personal_details">...</a> is not clickable at point (577, 124). Other element would receive the click: <iframe scrolling="no" id="wiz-iframe-intent" style="z-index: 2147483647; display:block; height: 100% !important; width: 100% !important;min-height:80px !important;border:0px !important; border-color:none !important;"></iframe>
+  (Session info: chrome=78.0.3904.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BRAT-PC', ip: '192.168.1.90', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\MANMEE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56331}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8a49a44e41f8629f11153b41e60d3d1c
+2019-11-14 13:52:00 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (8a49a44e41f8629f11153b41e60d3d1c)] -> xpath: //i[@class = 'icon-camera']]
+2019-11-14 13:52:01 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (8a49a44e41f8629f11153b41e60d3d1c)] -> xpath: //div[@class = 'file-upload']]
+2019-11-14 13:52:07 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (8a49a44e41f8629f11153b41e60d3d1c)] -> xpath: //button[text() = 'Upload']]
+2019-11-14 13:52:08 ERROR SharedActions:35 - Unable to click on [[ChromeDriver: chrome on XP (8a49a44e41f8629f11153b41e60d3d1c)] -> xpath: //li[@class = 'brand-logo']/a[@class = 'back-arrow']] element click intercepted: Element <a class="back-arrow">...</a> is not clickable at point (151, 25). Other element would receive the click: <bs-modal-backdrop class="modal-backdrop fade"></bs-modal-backdrop>
+  (Session info: chrome=78.0.3904.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BRAT-PC', ip: '192.168.1.90', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\MANMEE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56331}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8a49a44e41f8629f11153b41e60d3d1c
+2019-11-14 13:53:56 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (6b21b6e4702ace531be953b818790e4a)] -> xpath: //a[text() = 'Log In']]
+2019-11-14 13:53:57 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (6b21b6e4702ace531be953b818790e4a)] -> id: si_popup_email]
+2019-11-14 13:53:57 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (6b21b6e4702ace531be953b818790e4a)] -> id: si_popup_passwd]
+2019-11-14 13:53:58 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (6b21b6e4702ace531be953b818790e4a)] -> xpath: //button[text() = 'Login']]
+2019-11-14 13:54:02 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (6b21b6e4702ace531be953b818790e4a)] -> xpath: //img[@class='user_image']]
+2019-11-14 13:54:33 INFO  SharedActions:31 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //li[@role = 'menuitem']/a[text() = 'My Profile']'
+2019-11-14 13:54:33 ERROR SharedActions:35 - Unable to click on [[ChromeDriver: chrome on XP (6b21b6e4702ace531be953b818790e4a)] -> xpath: //a[@id = 'personal_details']] element click intercepted: Element <a _ngcontent-c25="" class="profile-edit-icon" id="personal_details">...</a> is not clickable at point (577, 124). Other element would receive the click: <iframe scrolling="no" id="wiz-iframe-intent" style="z-index: 2147483647; display:block; height: 100% !important; width: 100% !important;min-height:80px !important;border:0px !important; border-color:none !important;"></iframe>
+  (Session info: chrome=78.0.3904.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BRAT-PC', ip: '192.168.1.90', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\MANMEE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56595}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6b21b6e4702ace531be953b818790e4a
+2019-11-14 13:54:37 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (6b21b6e4702ace531be953b818790e4a)] -> xpath: //i[@class = 'icon-camera']]
+2019-11-14 13:54:38 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (6b21b6e4702ace531be953b818790e4a)] -> xpath: //div[@class = 'file-upload']]
+2019-11-14 13:54:44 INFO  SharedActions:31 - Clicked on [[ChromeDriver: chrome on XP (6b21b6e4702ace531be953b818790e4a)] -> xpath: //button[text() = 'Upload']]
+2019-11-14 13:54:52 INFO  SharedActions:31 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //li[@class = 'brand-logo']/a[@class = 'back-arrow']'
+2019-11-14 17:53:15 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (86f170484648d231e3ec792d59505daf)] -> xpath: //a[text() = 'Log In']]
+2019-11-14 17:53:15 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (86f170484648d231e3ec792d59505daf)] -> id: si_popup_email]
+2019-11-14 17:53:16 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (86f170484648d231e3ec792d59505daf)] -> id: si_popup_passwd]
+2019-11-14 17:53:16 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (86f170484648d231e3ec792d59505daf)] -> xpath: //button[text() = 'Login']]
+2019-11-14 17:53:20 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (86f170484648d231e3ec792d59505daf)] -> xpath: //img[@class='user_image']]
+2019-11-14 17:53:51 INFO  SharedActions:30 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //li[@role = 'menuitem']/a[text() = 'My Profile']'
+2019-11-14 17:54:21 INFO  SharedActions:30 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //a[@id = 'personal_details']'
+2019-11-14 17:54:22 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (86f170484648d231e3ec792d59505daf)] -> xpath: //i[@class = 'icon-camera']]
+2019-11-14 17:54:23 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (86f170484648d231e3ec792d59505daf)] -> xpath: //div[@class = 'file-upload']]
+2019-11-14 17:54:30 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (86f170484648d231e3ec792d59505daf)] -> xpath: //button[text() = 'Upload']]
+2019-11-14 17:54:32 ERROR SharedActions:34 - Unable to click on [[ChromeDriver: chrome on XP (86f170484648d231e3ec792d59505daf)] -> xpath: //li[@class = 'brand-logo']/a[@class = 'back-arrow']] element click intercepted: Element <a class="back-arrow">...</a> is not clickable at point (151, 25). Other element would receive the click: <div aria-hidden="false" aria-labelledby="mysmallmodal" bsmodal="" class="modal fade uploadphotomodal in" role="dialog" tabindex="-1" style="display: block;">...</div>
+  (Session info: chrome=78.0.3904.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BRAT-PC', ip: '192.168.1.90', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\MANMEE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50600}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 86f170484648d231e3ec792d59505daf
+2019-11-14 17:55:37 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (a9d58c7d6e3838f1f46a5af95ae43de6)] -> xpath: //a[text() = 'Log In']]
+2019-11-14 17:55:38 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (a9d58c7d6e3838f1f46a5af95ae43de6)] -> id: si_popup_email]
+2019-11-14 17:55:38 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (a9d58c7d6e3838f1f46a5af95ae43de6)] -> id: si_popup_passwd]
+2019-11-14 17:55:38 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (a9d58c7d6e3838f1f46a5af95ae43de6)] -> xpath: //button[text() = 'Login']]
+2019-11-14 17:55:42 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (a9d58c7d6e3838f1f46a5af95ae43de6)] -> xpath: //img[@class='user_image']]
+2019-11-14 17:56:12 INFO  SharedActions:30 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //li[@role = 'menuitem']/a[text() = 'My Profile']'
+2019-11-14 17:56:43 INFO  SharedActions:30 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //a[@id = 'personal_details']'
+2019-11-14 17:56:43 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (a9d58c7d6e3838f1f46a5af95ae43de6)] -> xpath: //i[@class = 'icon-camera']]
+2019-11-14 17:56:44 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (a9d58c7d6e3838f1f46a5af95ae43de6)] -> xpath: //div[@class = 'file-upload']]
+2019-11-14 17:56:51 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (a9d58c7d6e3838f1f46a5af95ae43de6)] -> xpath: //button[text() = 'Upload']]
+2019-11-14 17:56:53 ERROR SharedActions:34 - Unable to click on [[ChromeDriver: chrome on XP (a9d58c7d6e3838f1f46a5af95ae43de6)] -> xpath: //li[@class = 'brand-logo']/a[@class = 'back-arrow']] element click intercepted: Element <a class="back-arrow">...</a> is not clickable at point (151, 25). Other element would receive the click: <div aria-hidden="false" aria-labelledby="mysmallmodal" bsmodal="" class="modal fade uploadphotomodal in" role="dialog" tabindex="-1" style="display: block;">...</div>
+  (Session info: chrome=78.0.3904.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BRAT-PC', ip: '192.168.1.90', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\MANMEE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50808}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a9d58c7d6e3838f1f46a5af95ae43de6
+2019-11-14 18:10:02 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (dd3a8456fa5491303b44b1b2b71f989c)] -> xpath: //a[text() = 'Log In']]
+2019-11-14 18:10:03 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (dd3a8456fa5491303b44b1b2b71f989c)] -> id: si_popup_email]
+2019-11-14 18:10:03 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (dd3a8456fa5491303b44b1b2b71f989c)] -> id: si_popup_passwd]
+2019-11-14 18:10:04 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (dd3a8456fa5491303b44b1b2b71f989c)] -> xpath: //button[text() = 'Login']]
+2019-11-14 18:10:08 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (dd3a8456fa5491303b44b1b2b71f989c)] -> xpath: //img[@class='user_image']]
+2019-11-14 18:10:39 INFO  SharedActions:30 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //li[@role = 'menuitem']/a[text() = 'My Profile']'
+2019-11-14 18:11:09 INFO  SharedActions:30 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //a[@id = 'personal_details']'
+2019-11-14 18:11:10 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (dd3a8456fa5491303b44b1b2b71f989c)] -> xpath: //i[@class = 'icon-camera']]
+2019-11-14 18:11:11 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (dd3a8456fa5491303b44b1b2b71f989c)] -> xpath: //div[@class = 'file-upload']]
+2019-11-14 18:11:16 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (dd3a8456fa5491303b44b1b2b71f989c)] -> xpath: //button[text() = 'Upload']]
+2019-11-14 18:11:18 ERROR SharedActions:34 - Unable to click on [[ChromeDriver: chrome on XP (dd3a8456fa5491303b44b1b2b71f989c)] -> xpath: //li[@class = 'brand-logo']/a[@class = 'back-arrow']] element click intercepted: Element <a class="back-arrow">...</a> is not clickable at point (151, 25). Other element would receive the click: <div aria-hidden="false" aria-labelledby="mysmallmodal" bsmodal="" class="modal fade uploadphotomodal in" role="dialog" tabindex="-1" style="display: block;">...</div>
+  (Session info: chrome=78.0.3904.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BRAT-PC', ip: '192.168.1.90', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\MANMEE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51665}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dd3a8456fa5491303b44b1b2b71f989c
+2019-11-14 18:12:06 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (1a7f770ddc2e3b49bd976a2e99497f66)] -> xpath: //a[text() = 'Log In']]
+2019-11-14 18:12:06 INFO  SharedActions:31 - Entered data in [[ChromeDriver: chrome on XP (1a7f770ddc2e3b49bd976a2e99497f66)] -> id: si_popup_email]
+2019-11-14 18:12:07 INFO  SharedActions:44 - Entered data in [[ChromeDriver: chrome on XP (1a7f770ddc2e3b49bd976a2e99497f66)] -> id: si_popup_passwd]
+2019-11-14 18:12:07 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (1a7f770ddc2e3b49bd976a2e99497f66)] -> xpath: //button[text() = 'Login']]
+2019-11-14 18:12:12 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (1a7f770ddc2e3b49bd976a2e99497f66)] -> xpath: //img[@class='user_image']]
+2019-11-14 18:12:43 INFO  SharedActions:30 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //li[@role = 'menuitem']/a[text() = 'My Profile']'
+2019-11-14 18:12:43 ERROR SharedActions:34 - Unable to click on [[ChromeDriver: chrome on XP (1a7f770ddc2e3b49bd976a2e99497f66)] -> xpath: //a[@id = 'personal_details']] element click intercepted: Element <a _ngcontent-c25="" class="profile-edit-icon" id="personal_details">...</a> is not clickable at point (577, 124). Other element would receive the click: <iframe scrolling="no" id="wiz-iframe-intent" style="z-index: 2147483647; display:block; height: 100% !important; width: 100% !important;min-height:80px !important;border:0px !important; border-color:none !important;"></iframe>
+  (Session info: chrome=78.0.3904.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BRAT-PC', ip: '192.168.1.90', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\MANMEE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51859}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1a7f770ddc2e3b49bd976a2e99497f66
+2019-11-14 18:12:47 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (1a7f770ddc2e3b49bd976a2e99497f66)] -> xpath: //i[@class = 'icon-camera']]
+2019-11-14 18:12:48 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (1a7f770ddc2e3b49bd976a2e99497f66)] -> xpath: //div[@class = 'file-upload']]
+2019-11-14 18:12:54 INFO  SharedActions:30 - Clicked on [[ChromeDriver: chrome on XP (1a7f770ddc2e3b49bd976a2e99497f66)] -> xpath: //button[text() = 'Upload']]
+2019-11-14 18:13:27 INFO  SharedActions:30 - Clicked on Proxy element for: DefaultElementLocator 'By.xpath: //li[@class = 'brand-logo']/a[@class = 'back-arrow']'
